@@ -34,6 +34,8 @@ O resultado deste projeto evidencia o poder e a sofisticação dos modelos de IA
 
 * **Áudio Realista:** O grande destaque do projeto é a qualidade do áudio gerado pelo Gemini 2.5 Pro Preview TTS. Toda a entonação, o ritmo da fala, as pausas para respiração e o tom emocional de cada voz foram inteiramente gerados pelo modelo de IA. O resultado é um diálogo em áudio que se assemelha muito a uma gravação real entre duas pessoas, demonstrando um avanço notável na naturalidade da síntese de voz.
 
+* Veja o áudio gerado podcast-ia.wav
+
 ## 💭 Reflexão
 
 O maior desafio na criação de conteúdo gerado por IA, especialmente em formato de áudio, é alcançar um nível de naturalidade que seja indistinguível de uma produção humana. Este projeto buscou explorar precisamente essa fronteira. A capacidade do Gemini 2.5 Pro Preview TTS de não apenas ler um texto, mas de interpretá-lo, aplicando entonações e emoções pertinentes a um diálogo, representa um passo significativo para superar esse desafio.
