@@ -4,12 +4,6 @@ Este repositório apresenta um projeto de criação de conteúdo de áudio e tex
 
 ---
 
-<p align="center">
-  <img src="https://storage.googleapis.com/gemini-website/home/v2/gemini_logo_dark.svg" alt="Gemini Logo" width="200"/>
-</p>
-
----
-
 ## 📒 Descrição
 
 O projeto consiste na criação de um diálogo em formato de podcast entre um professor e um aluno, explorando temas relacionados à Inteligência Artificial. Todo o conteúdo, desde o roteiro do diálogo até a geração das vozes, foi desenvolvido utilizando modelos de IA de última geração do Google. O objetivo é demonstrar o potencial dessas ferramentas para a criação de conteúdo educacional e de entretenimento de forma rápida, criativa e com um alto nível de naturalidade.
